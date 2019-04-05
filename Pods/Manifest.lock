@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManagerSwift (6.2.1)
+  - MessageInputBar/Core (0.4.1)
+  - MessageKit (2.0.0):
+    - MessageInputBar/Core
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - MessageKit
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - IQKeyboardManagerSwift
+    - MessageInputBar
+    - MessageKit
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: 0f0ae8935360b4003e6ea1ac7c19898f01e2f7c7
+  MessageInputBar: e81c7535347f1f7b923de7080409a535a004b6e4
+  MessageKit: 29c1c87e5a396d2ca7a3f712e5171dc9aba42a1e
+
+PODFILE CHECKSUM: a25384be7c7e86a6e7a5a82025070f3f3d25bfaa
+
+COCOAPODS: 1.5.3

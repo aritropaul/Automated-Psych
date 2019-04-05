@@ -1,0 +1,6 @@
+framework module Pods_Automated_Psych {
+  umbrella header "Pods-Automated-Psych-umbrella.h"
+
+  export *
+  module * { export * }
+}
